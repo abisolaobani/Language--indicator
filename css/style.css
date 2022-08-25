@@ -1,0 +1,27 @@
+h1{
+    color: blueviolet;
+    background-color: blue;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h2:hover{
+    cursor: pointer;
+    color:blue;
+    border: 2px solid red;
+}
+p{
+    background-color: purple;
+    font-family: fantasy;
+    color: aqua;
+}
+ul{
+    padding-left: 2px;
+    padding-top: 4px;
+    color: pink;
+    background-color: crimson;
+    font-family: cursive;
+}
